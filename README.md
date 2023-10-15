@@ -8,4 +8,12 @@
  - Sacar de uma conta bancária
  - Transferir valores entre contas bancárias
  - Consultar saldo da conta bancária
- - Emitir extrato bancário 
+ - Emitir extrato bancário
+### Pré-requesitos
+ - Fazer o fork do Projeto para o seu github.
+ - Apos fazer o fork. Clonar o Projeto na sua Máquina através do Terminal.
+ - No VsCode será preciso instalar algumas bibliotecas:
+     npm init -y
+     npm install express
+     npm install -D nodemon
+     npm install date-fns 
