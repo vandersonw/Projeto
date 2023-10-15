@@ -10,10 +10,12 @@
  - Consultar saldo da conta bancária
  - Emitir extrato bancário
 ### Pré-requesitos
- - Fazer o fork do Projeto para o seu github.
- - Apos fazer o fork. Clonar o Projeto na sua Máquina através do Terminal.
- - No VsCode será preciso instalar algumas bibliotecas:
-     npm init -y
-     npm install express
-     npm install -D nodemon
-     npm install date-fns 
+ - Fazer o *Fork* do Projeto para o seu github.
+ - Apos fazer o *Fork*. *Clonar* o Projeto na sua Máquina através do Terminal.
+ - Precisa que o *Node.js* esteja instalado.
+ - Instalar a *Insomnia* uma ferramenta que auxilia na execução através de requisições passada nela. Ou de sua preferência.
+ - No VsCode será preciso instalar algumas bibliotecas para executar o Projeto:
+     - 1 npm init -y
+     - 2 npm install express
+     - 3 npm install -D nodemon
+     - 4 npm install date-fns 
