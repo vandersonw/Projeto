@@ -18,4 +18,6 @@
      - 1 npm init -y
      - 2 npm install express
      - 3 npm install -D nodemon
-     - 4 npm install date-fns 
+     - 4 npm install date-fns
+### Prints do Projeto 
+![projeto](https://github.com/vandersonw/Projeto/assets/108830886/89dfae82-b66d-4f66-b14a-22c0315c4286)
